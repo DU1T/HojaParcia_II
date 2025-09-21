@@ -78,7 +78,7 @@ public class PrestamoForm
             ex.printStackTrace();
         }
     }
-    /** Carga autores en combo */
+    /** Carga libros en combo */
     private void cargarLibrosEnCombo() {
         try {
             cboLibro.removeAllItems();
