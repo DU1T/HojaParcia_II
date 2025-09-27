@@ -189,7 +189,6 @@ public class PrestamoForm
     }
 
     private void limpiarFormulario() {
-        txtTituloLibro.setText("");
         cboAutor.setSelectedIndex(0);
         cboLibro.setSelectedIndex(0);
         modelLibros.setRowCount(0);
